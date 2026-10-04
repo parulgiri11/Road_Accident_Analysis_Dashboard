@@ -8,6 +8,20 @@ The project focuses on analyzing accident patterns, identifying trends, and unde
 
 The dashboard transforms raw accident data into meaningful visual insights, helping users explore accident trends and better understand road safety patterns across different regions and conditions.
 
+
+## 📸 Dashboard Preview
+
+### Main Dashboard
+
+<img src="assets/dashboard1.png" alt="India Road Accident Dashboard" width="800">
+
+<img src="assets/dashboard2.png" alt="India Road Accident Dashboard" width="800">
+
+### Filters
+
+<img src="assets/filter_image.png" alt="India Road Accident Dashboard" width="800">
+
+
 ## 🎯 Project Objectives
 
 * Analyze road accident data from India for 2022–2023.
