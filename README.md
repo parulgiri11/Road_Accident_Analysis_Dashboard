@@ -13,13 +13,13 @@ The dashboard transforms raw accident data into meaningful visual insights, help
 
 ### Main Dashboard
 
-<img src="assets/dashboard1.png" alt="India Road Accident Dashboard" width="800">
+<img src="assets/Dashboard1.png" alt="India Road Accident Dashboard" width="800">
 
-<img src="assets/dashboard2.png" alt="India Road Accident Dashboard" width="800">
+<img src="assets/Dashboard2.png" alt="India Road Accident Dashboard" width="800">
 
 ### Filters
 
-<img src="assets/filter_image.png" alt="India Road Accident Dashboard" width="800">
+<img src="assets/filter_image.png" alt="India Road Accident Dashboard" width="400" height="800">
 
 
 ## 🎯 Project Objectives
