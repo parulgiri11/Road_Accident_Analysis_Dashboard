@@ -1,0 +1,80 @@
+ROAD ACCIDENT ANALYSIS IN INDIA
+========================================
+
+DATASET SUMMARY
+--------------------
+Total Accidents: 1000
+Total States: 28
+Average Driver Age: 44.23
+Average Casualty Age: 40.87
+Average Car Age: 9.99
+
+ACCIDENT ANALYSIS
+--------------------
+
+Accidents by State:
+state
+TR    48
+GJ    44
+DL    44
+UP    44
+HP    43
+AS    40
+ML    39
+CG    38
+AP    38
+WB    37
+MN    36
+OD    35
+MP    34
+SK    34
+RJ    34
+AR    33
+BR    33
+KL    33
+MZ    33
+NL    33
+TN    33
+GA    32
+MH    32
+UK    32
+JH    32
+PB    32
+HR    28
+KA    26
+
+Accidents by Day:
+week_day
+S    295
+T    277
+F    152
+M    141
+W    135
+
+Accidents by Severity:
+severity
+Moderate    336
+Minor       335
+Severe      329
+
+Accidents by Weather:
+weather
+Fog      223
+Rain     218
+Clear    194
+Snow     183
+Storm    182
+
+Accidents by Time of Day:
+time_period
+Night        315
+Morning      307
+Afternoon    203
+Evening      175
+
+Accidents by Vehicle Type:
+vehicle_type
+Motorcycle    263
+Truck         263
+Car           240
+Bus           234
